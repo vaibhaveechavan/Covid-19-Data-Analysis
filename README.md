@@ -1,8 +1,7 @@
 # Covid-19 Data Analysis
 
 This project demonstrates ***Exploratory Data Analysis - SQL*** and ***Data Visualization - Tableau*** for data-driven decision making. <br/>
-
-[Visualization](https://public.tableau.com/app/profile/vaibhavi.chavan/viz/Covid-19DataAnalysis_16384497268360/Dashboard1?publish=yes) <br/>
+[Click here for Visualization](https://public.tableau.com/app/profile/vaibhavi.chavan/viz/Covid-19DataAnalysis_16384497268360/Dashboard1?publish=yes) <br/>
 
 Below are some of the questions, that have been answered using SQL statement.
 
