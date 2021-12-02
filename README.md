@@ -1,4 +1,4 @@
-# Covid19 Data Analysis
+# Covid-19 Data Analysis
 
 This project demonstrates Exploratory Data Analysis for data-driven decision making.
 Below are some of the questions, that have been answered using SQL statement.
