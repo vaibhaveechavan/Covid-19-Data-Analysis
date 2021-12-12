@@ -1,7 +1,7 @@
 # Covid-19 Data Analysis
 
 This project demonstrates ***Exploratory Data Analysis - SQL*** and ***Data Visualization - Tableau*** of Covid-19 data of deaths and vaccinations for data-driven decision making. <br/>
-[Click here for Visualization](https://public.tableau.com/app/profile/vaibhavi.chavan/viz/Covid-19DataAnalysis_16384497268360/Dashboard1?publish=yes) <br/>
+[Click here for Visualization](https://public.tableau.com/app/profile/vaibhavi.chavan/viz/Covid-19DataAnalysis_16384497268360/Covid-19DataAnalysis?publish=yes) <br/>
 
 SQL Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types <br/>
 Below are some of the questions, that have been answered using SQL statement.
